@@ -1,0 +1,34 @@
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Test2\8.5 DataBinding Huber\DataBinding\bin\Debug\DataBinding.exe.config
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Test2\8.5 DataBinding Huber\DataBinding\bin\Debug\DataBinding.exe
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Test2\8.5 DataBinding Huber\DataBinding\bin\Debug\DataBinding.pdb
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Test2\8.5 DataBinding Huber\DataBinding\obj\Debug\DataBinding.csproj.AssemblyReference.cache
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Test2\8.5 DataBinding Huber\DataBinding\obj\Debug\DataBinding.csproj.SuggestedBindingRedirects.cache
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Test2\8.5 DataBinding Huber\DataBinding\obj\Debug\MainWindow.g.cs
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Test2\8.5 DataBinding Huber\DataBinding\obj\Debug\App.g.cs
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Test2\8.5 DataBinding Huber\DataBinding\obj\Debug\DataBinding_MarkupCompile.cache
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Test2\8.5 DataBinding Huber\DataBinding\obj\Debug\DataBinding_MarkupCompile.lref
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Test2\8.5 DataBinding Huber\DataBinding\obj\Debug\MainWindow.baml
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Test2\8.5 DataBinding Huber\DataBinding\obj\Debug\DataBinding.g.resources
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Test2\8.5 DataBinding Huber\DataBinding\obj\Debug\DataBinding.Properties.Resources.resources
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Test2\8.5 DataBinding Huber\DataBinding\obj\Debug\DataBinding.csproj.GenerateResource.cache
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Test2\8.5 DataBinding Huber\DataBinding\obj\Debug\DataBinding.csproj.CoreCompileInputs.cache
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Test2\8.5 DataBinding Huber\DataBinding\obj\Debug\DataBinding.exe
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Test2\8.5 DataBinding Huber\DataBinding\obj\Debug\DataBinding.pdb
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Test2\8.5 DataBinding Huber\DataBinding\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Object-Oriented Design\8.5 DataBinding Huber\DataBinding\bin\Debug\DataBinding.exe.config
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Object-Oriented Design\8.5 DataBinding Huber\DataBinding\bin\Debug\DataBinding.exe
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Object-Oriented Design\8.5 DataBinding Huber\DataBinding\bin\Debug\DataBinding.pdb
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Object-Oriented Design\8.5 DataBinding Huber\DataBinding\obj\Debug\DataBinding.csproj.AssemblyReference.cache
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Object-Oriented Design\8.5 DataBinding Huber\DataBinding\obj\Debug\DataBinding.csproj.SuggestedBindingRedirects.cache
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Object-Oriented Design\8.5 DataBinding Huber\DataBinding\obj\Debug\MainWindow.g.cs
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Object-Oriented Design\8.5 DataBinding Huber\DataBinding\obj\Debug\App.g.cs
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Object-Oriented Design\8.5 DataBinding Huber\DataBinding\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Object-Oriented Design\8.5 DataBinding Huber\DataBinding\obj\Debug\DataBinding_MarkupCompile.cache
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Object-Oriented Design\8.5 DataBinding Huber\DataBinding\obj\Debug\DataBinding_MarkupCompile.lref
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Object-Oriented Design\8.5 DataBinding Huber\DataBinding\obj\Debug\MainWindow.baml
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Object-Oriented Design\8.5 DataBinding Huber\DataBinding\obj\Debug\DataBinding.g.resources
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Object-Oriented Design\8.5 DataBinding Huber\DataBinding\obj\Debug\DataBinding.Properties.Resources.resources
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Object-Oriented Design\8.5 DataBinding Huber\DataBinding\obj\Debug\DataBinding.csproj.GenerateResource.cache
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Object-Oriented Design\8.5 DataBinding Huber\DataBinding\obj\Debug\DataBinding.csproj.CoreCompileInputs.cache
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Object-Oriented Design\8.5 DataBinding Huber\DataBinding\obj\Debug\DataBinding.exe
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Object-Oriented Design\8.5 DataBinding Huber\DataBinding\obj\Debug\DataBinding.pdb
